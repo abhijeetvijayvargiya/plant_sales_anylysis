@@ -6,6 +6,12 @@ This project analyzes a plant sales dataset to uncover pricing patterns, custome
 
 ---
 
+## 📷 Dashboard Preview
+
+![Plant Sales Analysis Dashboard](dashboard/PLANT_SALES_ANYLYSIS.png)
+
+---
+
 ## 🎯 Objective
 
 The main objectives of this project are to:

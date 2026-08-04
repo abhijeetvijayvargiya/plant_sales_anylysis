@@ -41,10 +41,6 @@ The dataset contains the following columns:
 ## 🛠 Tools Used
 
 - Microsoft Excel
-- Power BI
-- SQL (Optional)
-- Power Query
-- DAX
 
 ---
 
